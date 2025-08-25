@@ -1214,6 +1214,8 @@ def main():
         savemat(os.path.join(pwd, name_file), {
             'time': t,
             'states': x,
+            'q_real': q_real,
+            'q_d': q_des,
             'ref': xref,
             'controls': u_control,
             'CBF_1': h_CBF_1,

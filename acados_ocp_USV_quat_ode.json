@@ -1,7 +1,7 @@
 {
     "acados_include_path": "/home/bryansgue/acados/include",
     "acados_lib_path": "/home/bryansgue/acados/lib",
-    "code_export_directory": "/home/bryansgue/Doctoral_Research/Python/5_SAV/c_generated_code",
+    "code_export_directory": "/home/bryansgue/Doctoral_Research/Python/5_ASV/c_generated_code",
     "constraints": {
         "C": [],
         "C_e": [],
